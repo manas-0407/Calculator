@@ -5,4 +5,4 @@ __Glimpse__
 
 ![](https://github.com/manas-0407/Calculator/blob/master/Git_Assets/76u50s%20(1).gif)
 
-<img src="https://github.com/manas-0407/Calculator/blob/master/Git_Assets/Screenshot_20230109_190524.png"  width="300" height="690">
+<img src="https://github.com/manas-0407/Calculator/blob/master/Git_Assets/Screenshot_20230109_190524.png"  width="360" height="820">
